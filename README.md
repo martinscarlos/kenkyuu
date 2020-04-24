@@ -1,2 +1,2 @@
-# programacao-basica
+# Programacao Básica
  Primeiros estudos em algoritmos
