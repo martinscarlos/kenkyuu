@@ -9,12 +9,9 @@ programa
 		novoEscreva("Teste 3", 3, 2)
 	}
 
-	funcao novoEscreva(cadeia mensagem, inteiro vezes, inteiro estiloLinha) {
+	funcao vazio novoEscreva(cadeia mensagem, inteiro vezes, inteiro estiloLinha) {
 		para (inteiro i = 1; i <= vezes; i++) {
 			escolha (estiloLinha) {
-				caso 0:
-					escreva(mensagem, "\n")
-					pare
 				caso 1:
 					para (inteiro j = 1; j <= 40; j++) escreva("-")
 					escreva("\n", mensagem, "\n")
@@ -27,6 +24,9 @@ programa
 					para (inteiro j = 1; j <= 40; j++) escreva("=")
 					escreva("\n")
 					pare
+				caso contrario:
+					escreva(mensagem, "\n")
+					pare
 			}
 		}
 	}
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 718; 
+ * @POSICAO-CURSOR = 309; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
