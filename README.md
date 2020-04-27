@@ -1,4 +1,4 @@
-# Programacao Básica
+# Programacão Básica
 Repositório em PT-BR de primeiros estudos em algoritmos com exercícios e práticas.
 
 # Git
