@@ -10,4 +10,7 @@ Repositório em PT-BR de primeiros estudos em algoritmos com exercícios e prát
 - `git show`
 - `git branch [-D]`
 - `git checkout`
+- `git merge`
 - `git push`
+- `git pull`
+- `git clone`
