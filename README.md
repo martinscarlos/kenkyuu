@@ -2,7 +2,7 @@
 
 Repositório em Português do Brasil de meus primeiros estudos em algoritmos com exercícios.
 
-Utilizei a ferramenta *[Portugol Studio](http://lite.acad.univali.br/portugol/)* como base de aprendizado.
+Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_ como base de aprendizado.
 
 **Kenkyuu** (**研究**) significa "Estudo" em japonês. A palavra nomeia este repositório devido à meu apreço pela cultura japonesa e dedicação nos estudos de programação.
 
