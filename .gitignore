@@ -1,5 +1,5 @@
 c/teste
 c/exe
-teste.por
-teste.py
-teste.c
+teste*.por
+teste*.py
+teste*.c
