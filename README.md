@@ -19,7 +19,7 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
 - [Gustavo Guanabara](https://gustavoguanabara.github.io)
 
-## Linguagens Utilizadas
+## Linguagens
 
 - C
 - Python
