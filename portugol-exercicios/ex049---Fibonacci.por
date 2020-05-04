@@ -12,7 +12,8 @@ programa
 
 		escreva(n1, " ~> ", n2, " ~> ")
 		u.aguarde(300)
-		para (i = 3; i <= n; i++) {
+
+		para (i = 1; i <= n; i++) {
 			n3 = n1 + n2
 			escreva(n3, " ~> ")
 			n1 = n2
