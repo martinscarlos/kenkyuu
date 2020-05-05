@@ -21,6 +21,7 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
 ## Linguagens
 
+- Pseudocódigo em Português
 - C
 - Python
 
