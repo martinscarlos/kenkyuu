@@ -25,7 +25,7 @@ programa
       }
     }
 
-    // Ordena o vetor
+    // Ordena o vetor - Bubble Sort
     inteiro aux = 0
     para (inteiro i = 0; i < u.numero_elementos(vet); i++) {
       para (inteiro j = i + 1; j < u.numero_elementos(vet); j++) {
@@ -51,7 +51,7 @@ programa
     // Busca Binária
     encontrado = falso
     inteiro ini = 0, fim = u.numero_elementos(vet) - 1, meio = 0
-    enquanto (ini < fim) {
+    enquanto (ini <= fim) {
       meio = (ini + fim) / 2
 
       se (vet[meio] == chave) {
