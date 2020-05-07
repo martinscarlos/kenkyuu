@@ -40,6 +40,10 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 - `git pull`
 - `git clone`
 
+## To Do
+
+- [ ] Criar README em Inglês
+
 ---
 
 Agradeço a Victoria quem me dá ânimo para continuar estudando 💛
