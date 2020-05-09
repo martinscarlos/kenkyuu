@@ -28,8 +28,12 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 ## Linguagens
 
 - Pseudocódigo em Português
-- C
+- C / C++
 - Python
+- HTML
+- CSS
+- JavaScript
+- Kotlin
 
 ## Cola de Git
 
