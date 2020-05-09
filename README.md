@@ -19,6 +19,10 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
 - [Gustavo Guanabara](https://gustavoguanabara.github.io)
 
+### Outros
+
+- [CS50](https://cs50.harvard.edu/x/2020/) Curso introdutório à ciência da computação da Universidade de Harvard
+
 ## Linguagens
 
 - Pseudocódigo em Português
