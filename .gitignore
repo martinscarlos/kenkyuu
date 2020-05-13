@@ -1,6 +1,3 @@
-c/teste
-c/exe
-teste*.por
-teste*.py
-teste*.c
-*/extra
+*teste*
+*exec*
+*extra*
