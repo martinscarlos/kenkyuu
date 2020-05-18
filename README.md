@@ -34,7 +34,7 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 - CSS
 - JavaScript
 - PHP
-- Norde.js
+- Node.js
 - Java
 - Kotlin
 - Ruby
