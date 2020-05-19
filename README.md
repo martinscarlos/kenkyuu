@@ -6,14 +6,14 @@ Primeiros estudos em algoritmos com exercícios utilizando a ferramenta _[Portug
 
 ## Conteúdos Úteis
 
-### Canais no YouTube
+### YouTube
 
 - [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
 - [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 
-### Repositórios no GitHub
+### GitHub
 
 - [Gustavo Guanabara](https://gustavoguanabara.github.io)
 
