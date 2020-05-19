@@ -4,7 +4,7 @@ Repositório em Português do Brasil de meus primeiros estudos em algoritmos com
 
 Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_ como base de aprendizado.
 
-**Kenkyuu** (**研究**) significa "Estudo" em japonês. A palavra nomeia este repositório devido à meu apreço pela cultura japonesa e dedicação nos estudos de programação.
+**Kenkyuu** (**研究**) significa "Estudo" em japonês. A palavra nomeia esse repositório por meu apreço pela cultura japonesa e dedicação nos estudos de programação.
 
 ## Conteúdos Úteis
 
@@ -21,9 +21,9 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
 ### Outros
 
-- [CS50](https://cs50.harvard.edu/x/2020/) Curso introdutório à ciência da computação da Universidade de Harvard
+- [CS50](https://cs50.harvard.edu/x/2020/) Curso da Universidade de Harvard de introdução à ciência da computação
 - [Programação para Iniciantes](https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) por Fabio Akita
-- Roadmaps de desenvolvimento web no [YouTube](https://www.youtube.com/watch?v=SBB1YtwODT0) e no [GitHub](https://github.com/kamranahmedse/developer-roadmap)
+- Roadmaps de desenvolvimento web no [YouTube](https://www.youtube.com/watch?v=SBB1YtwODT0) e [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Linguagens
 
