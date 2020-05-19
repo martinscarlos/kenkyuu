@@ -23,7 +23,7 @@ Utilizei a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
 - [CS50](https://cs50.harvard.edu/x/2020/) Curso da Universidade de Harvard de introdução à ciência da computação
 - [Programação para Iniciantes](https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) por Fabio Akita
-- Roadmaps de desenvolvimento web no [YouTube](https://www.youtube.com/watch?v=SBB1YtwODT0) e [GitHub](https://github.com/kamranahmedse/developer-roadmap)
+- Roadmap de desenvolvimento web no [YouTube](https://www.youtube.com/watch?v=SBB1YtwODT0) e [GitHub](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Linguagens
 
