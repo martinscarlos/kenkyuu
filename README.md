@@ -59,4 +59,4 @@ Primeiros estudos em algoritmos com exercícios utilizando a ferramenta _[Portug
 
 ---
 
-Agradeço a Victoria quem me dá ânimo para continuar estudando 💛
+Agradeço a Finotti quem me dá ânimo para continuar estudando 💛
