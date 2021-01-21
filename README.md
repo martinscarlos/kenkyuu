@@ -56,7 +56,3 @@ Primeiros estudos em algoritmos com exercícios utilizando a ferramenta _[Portug
 ## To Do
 
 - [ ] Criar README em Inglês
-
----
-
-Agradeço a Finotti quem me dá ânimo para continuar estudando 💛
